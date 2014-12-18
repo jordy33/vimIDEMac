@@ -1,9 +1,9 @@
-## How to install Python 3 on a Mac virtualenv & flask ##
+## How to install Python 3 on a Mac virtualenv & flask & vimIDE##
 * from https://www.python.org/downloads/mac-osx/
 * Download python 3.4 and install it
 * pip3 install virtualenv
 * pip3 install flask
-## How to install VIM IDE ##
+* pip3 install pylint
 * ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 * brew doctor
 * brew install mercurial
